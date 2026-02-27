@@ -224,3 +224,4 @@ Included: **215** out of 300+ total (Intercom: 188, IntercomSwap: 27)
 - [SukuyamaBugHunter/hunter-treasury](https://github.com/SukuyamaBugHunter/hunter-treasury) — ⚔ Combat Treasury Simulation Engine
 - [Syawal2/metrics](https://github.com/Syawal2/metrics) — Real-Time CLI Performance Monitor
 - [twityfruity7/Trac-scam-adress-detection](https://github.com/twityfruity7/Trac-scam-adress-detection) — P2P Scam & Risk Detection Agent built on Intercom / Trac Network
+- [TaskDropper](https://github.com/Davexinoh/TaskDropper) - A minimal P2P task board built on Intercom. Post tasks to a shared sidechannel, claim them, and mark them done. No server, no central authority. Trac: trac1v3u8ac33q9m6hsr4jvznfcknhmdl0p6tgjly0vjw9jt5998mmknst95kw6
