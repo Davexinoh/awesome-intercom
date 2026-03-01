@@ -223,5 +223,5 @@ Included: **215** out of 300+ total (Intercom: 188, IntercomSwap: 27)
 - [subserina/intercom-swap](https://github.com/subserina/intercom-swap) — Trac Address (for payouts)
 - [SukuyamaBugHunter/hunter-treasury](https://github.com/SukuyamaBugHunter/hunter-treasury) — ⚔ Combat Treasury Simulation Engine
 - [Syawal2/metrics](https://github.com/Syawal2/metrics) — Real-Time CLI Performance Monitor
-- [twityfruity7/Trac-scam-adress-detection](https://github.com/twityfruity7/Trac-scam-adress-detection) — P2P Scam & Risk Detection Agent built on Intercom / Trac Network
+- [twityfruity7/Trac-scam-adress-detection](https://github.com/twityfruity7/Trac-scam-adress-detection) — P2P Scam & Risk Detection Agent built on Intercom / Trac Network.              
 (https://github.com/Davexinoh/intercom-desk) -Intercom Desk (Customer Support Platform) + Full-stack helpdesk with CLI console + React dashboard. Complaint intake, inbox, macros, suggested replies, auto-priority rules, analytics. Demo:https://intercomdesk.netlify.app/ Trac: trac1e822qqhy2x0jsl03y57zaflucewszpdg0k4cv2tu0s3p4sj87z7qg4h5h2
