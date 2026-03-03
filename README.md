@@ -46,7 +46,7 @@ Included: **215** out of 300+ total (Intercom: 188, IntercomSwap: 27)
 - [cybertdelion/PollStation---Voting-Poll-P2P-App](https://github.com/cybertdelion/PollStation---Voting-Poll-P2P-App) — A decentralized, peer-to-peer polling and voting app built on top of Intercom — the Trac Network agent stack.
 - [danFabCode/intercom-degen-oracle](https://github.com/danFabCode/intercom-degen-oracle) — DegenOracle is a P2P daily horoscope bot for the Trac Network built on Intercom.
 - [danielmushroom886-ai/room-policy-engine](https://github.com/danielmushroom886-ai/room-policy-engine) — A cyber-style CLI policy validation engine built on Intercom architecture.
-- [Davexinoh/TaskDropper](https://github.com/Davexinoh/TaskDropper) — A minimal peer-to-peer task board built on Intercom — the Trac Network stack for autonomous agents.
+- - [Davexinoh/intercom-desk](https://github.com/Davexinoh/intercom-desk) – Intercom Desk is a structured complaint intake and routing system built on the Intercom ecosystem.Live Demo: https://intercomdesk.netlify.app
 - [deepnsteady/intercom](https://github.com/deepnsteady/intercom) — Built on Intercom (Trac Network)
 - [Demolamalik/intercom](https://github.com/Demolamalik/intercom) — Anonymous P2P real-time polling on Trac Network
 - [DennyArdy/sentinel](https://github.com/DennyArdy/sentinel) — A lightweight real-time CLI event tracker built on Intercom architecture.
