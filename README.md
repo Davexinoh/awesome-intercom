@@ -225,3 +225,5 @@ Included: **215** out of 300+ total (Intercom: 188, IntercomSwap: 27)
 - [Syawal2/metrics](https://github.com/Syawal2/metrics) — Real-Time CLI Performance Monitor
 - [twityfruity7/Trac-scam-adress-detection](https://github.com/twityfruity7/Trac-scam-adress-detection) — P2P Scam & Risk Detection Agent built on Intercom / Trac Network
 - [TaskDropper](https://github.com/Davexinoh/TaskDropper) - A minimal P2P task board built on Intercom. Post tasks to a shared sidechannel, claim them, and mark them done. No server, no central authority. Trac: trac1v3u8ac33q9m6hsr4jvznfcknhmdl0p6tgjly0vjw9jt5998mmknst95kw6
+- [twityfruity7/Trac-scam-adress-detection](https://github.com/twityfruity7/Trac-scam-adress-detection) — P2P Scam & Risk Detection Agent built on Intercom / Trac Network.              
+(https://github.com/Davexinoh/intercom-desk) -Intercom Desk (Customer Support Platform) + Full-stack helpdesk with CLI console + React dashboard. Complaint intake, inbox, macros, suggested replies, auto-priority rules, analytics. Demo:https://intercomdesk.netlify.app/ Trac: trac1e822qqhy2x0jsl03y57zaflucewszpdg0k4cv2tu0s3p4sj87z7qg4h5h2
